@@ -10,5 +10,8 @@ public void print()
     System.out.println("Repo");
 
 }
-public void displayMsg(){}
+public void displayMsg()
+{
+	System.out.println("displayMsg");
+}
 }
