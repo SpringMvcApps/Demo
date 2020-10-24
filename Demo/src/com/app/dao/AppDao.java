@@ -10,8 +10,4 @@ public void print()
     System.out.println("Repo");
 
 }
-public void display()
-{
-	
-}
 }
