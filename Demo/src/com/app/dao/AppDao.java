@@ -12,6 +12,6 @@ public void print()
 }
 public void displayMsg()
 {
-
+System.out.println("displayMsg");
 }
 }
