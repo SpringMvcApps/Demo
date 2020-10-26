@@ -18,5 +18,11 @@ System.out.println("displayMsg1");
 
 }
 
-// Implement print functonality
+public void printMsg()
+{
+
+System.out.println("print");
+System.out.println("print");
+
+}
 }
