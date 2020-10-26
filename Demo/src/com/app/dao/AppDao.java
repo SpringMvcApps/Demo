@@ -13,5 +13,6 @@ public void print()
 public void displayMsg()
 {
 System.out.println("displayMsg");
+System.out.println("displayMsg1");
 }
 }
